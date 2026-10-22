@@ -1,1 +1,0 @@
-"""Eräs Python-tiedosto"""

@@ -1,3 +1,0 @@
-Dokumentaatio-tiedosto
-Tähän on lisätty muutoksia.
-git add -p -muutos
