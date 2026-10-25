@@ -1,3 +1,4 @@
+"""index module for varasto package"""
 from varasto import Varasto
 
 
