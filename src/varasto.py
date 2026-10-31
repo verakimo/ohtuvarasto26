@@ -11,7 +11,7 @@ class Varasto:
             return alku_saldo
         return tilavuus
 
-    # Ominaisuus voidaan laskea ilman erillistä kenttää, koska vapaa tila saadaan aina tilavuuden ja saldon erotuksena.
+    # Ominaisuus voidaan laskea ilman erillistä kenttää.
     def paljonko_mahtuu(self):
         return self.tilavuus - self.saldo
 
